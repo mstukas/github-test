@@ -1,2 +1,2 @@
 # github-test
-github-test repository
+github-test repository for tutorial
